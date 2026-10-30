@@ -1,0 +1,6 @@
+{
+  "name": "TraceOne — Blockchain-Based Quality & Traceability Platform",
+  "description": "Enterprise tracking and traceability management platform connecting manufacturing records, AI quality inspection, off-chain IPFS storage, and on-chain blockchain verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
